@@ -66,7 +66,7 @@
 
 ## 位置付け
 
-Claude Codeは **Copilotの代替ではなく、上流エンジニアの代替** として利用したい。
+Claude Codeは **Copilotの代替ではなく、Coderの代替** として利用したい。
 上流エンジニアをエージェント化することが狙い。
 
 ---
@@ -104,10 +104,16 @@ Claude Codeは、ファイル操作・コマンド実行を伴うAIツールで�
 - 目的限定
 
 ## 今後の流れ
-
 - コンサル（リクルートDS木村氏）と議論していただく（すでに導入している企業の立場から）
 - https://sites.google.com/view/ryusuke-kimura/home
 - 当室マネジメント層と中嶋部長も入れた相談をさせていただく（事業戦略的観点での相談）
 
 # Memo
+シニアSE、シニアSE、SE、SE
+DS、シニアSE、シニアSE
+DS、シニアSE
+
+子会社化して、完全別環境でPCを別調達が妥当
+Oprizonに業務委託する
+Workstylingに入居
 
